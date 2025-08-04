@@ -1,6 +1,14 @@
 #  Sentiment Analysis on IMDB Reviews
 
 This project performs **sentiment analysis** on movie reviews using **Natural Language Processing (NLP)** and **Machine Learning** techniques such as TF-IDF, LDA, and a Linear Support Vector Classifier. It includes an intuitive **Tkinter-based GUI** for training and prediction without requiring command-line interaction.
+
+## Dataset Download
+
+You can download the dataset used in this project from the following Google Drive link:
+
+📁 [Download Dataset](https://drive.google.com/drive/folders/1bUW8eantdXLDUmtr3Y355Zf4B3XsSYMG?usp=sharing)
+
+
 ##  Key Concepts and Techniques
 
 ###  Text Preprocessing
